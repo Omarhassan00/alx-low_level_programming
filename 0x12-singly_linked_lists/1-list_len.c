@@ -1,8 +1,8 @@
 #include "lists.h"
 
 /*
-*list_len : mark the length of linked list
-*@c: ptr to first node
+* list_len : mark the length of linked list
+* @c: ptr to first node
 *
 * return: size of list
 */
