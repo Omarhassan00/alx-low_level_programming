@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
-* function _constructor - executes before main()
+* _constructor - executes before main()
 *
 * Return: nothing
 */
