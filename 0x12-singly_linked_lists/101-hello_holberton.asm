@@ -1,4 +1,4 @@
-section 	.head
+section		.head
 	extern	printf
 	global	main
 

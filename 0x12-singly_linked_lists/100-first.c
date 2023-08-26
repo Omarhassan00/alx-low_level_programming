@@ -1,9 +1,9 @@
 #include "lists.h"
 
 /*
-* function _constructor : executes before main()
+* function _constructor - executes before main()
 *
-* return: nothing
+* Return: nothing
 */
 
 void _constructor(void)

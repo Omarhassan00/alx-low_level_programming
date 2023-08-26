@@ -1,11 +1,11 @@
 #include "lists.h"
 
 /*
-* add_node : adds node to start of list
+* add_node - adds node to start of list
 * @head: address in memory to head node
 * @str:str part of node
 *
-* return:size of list
+* Return:size of list
 */
 
 list_t *add_node(list_t **head, const char *str)

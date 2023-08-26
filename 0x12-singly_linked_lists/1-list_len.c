@@ -4,7 +4,7 @@
 * list_len : mark the length of linked list
 * @c: ptr to first node
 *
-* return: size of list
+* Return: size of list
 */
 
 size_t list_len(const list_t *c)

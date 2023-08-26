@@ -1,10 +1,10 @@
 #include "lists.h"
 
 /*
-* free_list : free all nodes of a list
+* free_list - free all nodes of a list
 * @head : pointer to node
 *
-* return: nothing
+* Return: nothing
 */
 
 void free_list(list_t *head)
