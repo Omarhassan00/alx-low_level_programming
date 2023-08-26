@@ -1,6 +1,6 @@
 #include "lists.h"
 
-/*
+/**
 * add_node_end - add node to end of list
 * @head: address of pointer to node
 * @str: field of node

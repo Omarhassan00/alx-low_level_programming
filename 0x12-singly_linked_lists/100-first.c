@@ -1,6 +1,6 @@
 #include "lists.h"
 
-/*
+/**
 * function _constructor - executes before main()
 *
 * Return: nothing

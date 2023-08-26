@@ -1,6 +1,6 @@
 #include "lists.h"
 
-/*
+/**
 * free_list - free all nodes of a list
 * @head : pointer to node
 *
