@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * delete_nodeint_at_index - deletes the node at index
+ * delete_nodeint_at_index - deletes node at index
  * @head: double pointer
  * @index: index of node
  *
